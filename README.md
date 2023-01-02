@@ -7,7 +7,7 @@ I am **Software Engineer** and **Web Developer**.
 - 🔭 I'm currently working with [TypeScript](https://www.typescriptlang.org), [React](https://reactjs.org) / [Next.js](https://nextjs.org) and [Material UI](https://mui.com);
 - 🌱 I'm currently learning [React Context](https://reactjs.org/docs/context.html) / [Redux](https://redux.js.org) and [HTTP Requests](https://developer.mozilla.org/pt-BR/docs/Web/HTTP);
 - I ❤️ My Pets, Dev Community and Coffee;
-- 😄 I have a lot of hobbies like: 📺 watch k-drama, ✈️ travel, 🎶 karaoke and 💻 tecnology
+- 😄 I have a lot of hobbies like: 📺 watch k-drama, ✈️ travel, 🎶 karaoke and 🎮 play games
 
 <div>
 <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=karolayneataide&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
