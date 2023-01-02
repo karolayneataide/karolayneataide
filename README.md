@@ -11,7 +11,7 @@ I am **Software Engineer** and **Web Developer**.
 
 <div>
 <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=karolayneataide&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolayneataide&layout=compact&langs_count=16&theme=dracula"/>
+<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolayneataide&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <!--
